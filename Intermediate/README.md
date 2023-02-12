@@ -1,7 +1,7 @@
 # Introduction
 These projects are for those programers who have a solid foundation coding and want to learn more 
 
-# Learning Objectives
+# Learning Objectives  
 
 Beginner
 - Practicing basic concepts 
