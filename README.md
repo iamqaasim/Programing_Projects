@@ -9,7 +9,7 @@ The aim of this repo is to decument and Showcase my learning journey. As well as
 - Problem solving 
 - Debugging
 
-Intermidiate
+[Intermidiate]([https://github.com/iamqaasim/Programing_Projects/tree/main/Beginner](https://github.com/iamqaasim/Programing_Projects/tree/main/Intermediate))
 - Using libraries and frameworks
 - Working with data
 - Learn additional languages
@@ -17,7 +17,7 @@ Intermidiate
 - Time complexity (Big-O)
 - Deepen your knowledge on Data Structures and Algorithms
 
-Advanced
+[Advanced]([https://github.com/iamqaasim/Programing_Projects/tree/main/Beginner](https://github.com/iamqaasim/Programing_Projects/tree/main/Advanced))
 - Combine Frontend and Backend 
 - Automate repetitive tasks
 - Work with APIs
