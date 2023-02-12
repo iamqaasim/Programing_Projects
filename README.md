@@ -2,6 +2,7 @@
 The aim of this repo is to decument and Showcase my learning journey. As well as help those new to programing to find project ideas along with soruce code to guide them.
 
 # Learning Objectives
+Each project has its own challengers. When starting a new project try and do it yourself. You will learn more more starting from scratch, nothing is learnt from copying and pasting 
 
 [Beginner](https://github.com/iamqaasim/Programing_Projects/tree/main/Beginner)
 - Practicing basic concepts 
