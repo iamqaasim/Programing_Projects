@@ -14,6 +14,8 @@ In addition to the beginner objectives:
 - Working with data
 - Learn additional languages
 - Learn some Dev Ops
+- Time complexity (Big-O)
+- Deepen your knowledge on Data Structures and Algorithms [Very important in Backend]
 
 
 # Languages
