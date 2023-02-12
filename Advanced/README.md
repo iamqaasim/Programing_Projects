@@ -1,5 +1,5 @@
 # Introduction
-These projects are for those programers who have a solid understanding of the world of programing (UX/UI design, Frontend, Backend, DevOps) and want to sharpen their skills. Although you might not need help in project search, this could be useful when transitioning to a diffeerent field your not familiar with.
+These projects are for those programers who have a solid understanding of the world of programing (UX/UI design, Frontend, Backend, DevOps) and want to sharpen their skills. Although you might not need help in project search, this could be useful when transitioning to a diffeerent field that you're not familiar with.
 
 # Learning Objectives
 
