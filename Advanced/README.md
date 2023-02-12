@@ -12,6 +12,7 @@ Beginner & Intermidiate
 - Working with data
 - Learn additional languages
 - Learn Dev Ops
+- Time complexity (Big-O)
 - Deepen your knowledge on Data Structures and Algorithms
 
 In addition to the beginner & intermidiate objectives:
