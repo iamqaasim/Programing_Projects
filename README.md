@@ -3,7 +3,7 @@ The aim of this repo is to decument and Showcase my learning journey. As well as
 
 # Learning Objectives
 
-Beginner
+[Beginner](https://github.com/iamqaasim/Programing_Projects/tree/main/Beginner)
 - Practicing basic concepts 
 - Practice writing clean code 
 - Problem solving 
