@@ -30,4 +30,4 @@ Each project has its own challengers. When starting a new project try and do it 
 These projects are not languages specific. Choose a alnguage you're comfortable with and start coding. 
 
 # Notice
-If there are any projects you would like me to code (Beginner - Intermidiate) please leavea a comment with a title and a desciption of the project mentioned
+If there are any other projects you would like me to code (Beginner - Intermidiate) please leavea a feedback with a title and a desciption of the project mentioned
