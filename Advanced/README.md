@@ -16,7 +16,7 @@ Beginner & Intermidiate
 - Deepen your knowledge on Data Structures and Algorithms
 
 In addition to the beginner & intermidiate objectives:
-- Combine Frontend and Backend 
+- Integration 
 - Automate repetitive tasks
 - Work with APIs
 - Work with Big Data
