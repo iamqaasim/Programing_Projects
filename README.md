@@ -19,7 +19,7 @@ Each project has its own challengers. When starting a new project try and do it 
 - Deepen your knowledge on Data Structures and Algorithms
 
 [Advanced](https://github.com/iamqaasim/Programing_Projects/tree/main/Advanced)
-- Combine Frontend and Backend 
+- Integration 
 - Automate repetitive tasks
 - Work with APIs
 - Work with Big Data
