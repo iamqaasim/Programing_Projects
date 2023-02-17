@@ -1,20 +1,22 @@
+# My imports
 from os import scandir, rename               # Scan folders and Rename files
 from os.path import splitext, exists, join   # Edit file names
 from shutil import move                      # Move files
-from time import sleep                       # Timer
 
-# Watchdog imports
-import logging                                      
-from watchdog.observers import Observer              
-from watchdog.events import FileSystemEventHandler   
+# Watchdog quick start imports
+#import sys                                  # I passed the path directly, so we dont need this import anymore 
+from time import sleep                       # Timer
+import logging                               # Display infomation      
+from watchdog.observers import Observer      # Schedules watching directories and dispatches calls to event handlers      
+from watchdog.events import FileSystemEventHandler   # Is triggered when a change occurs on the monitored file system
 
 # FILL IN PATHS BELOW
 source_dir = "/Users/Qaasim/Downloads"
-destination_directory_sounds = "/Users/Qaasim/Downloads/Sounds"
-destination_directory_music = "/Users/Qaasim/Downloads/Music"
-destination_directory_videos = "/Users/Qaasim/Downloads/Videos"
-destination_directory_images = "/Users/Qaasim/Downloads/Images"
-destination_directory_documents = "/Users/Qaasim/Downloads/Documents"
+destination_directory_sounds = ""
+destination_directory_music = ""
+destination_directory_videos = ""
+destination_directory_images = ""
+destination_directory_documents = ""
 
 # image extention types
 image_extensions = [".jpg", ".jpeg", ".png", ".gif"]
@@ -47,7 +49,7 @@ def move_file(dest, entry, name):
     move(entry, dest)
 
 # Monitor and update the source folder
-class Organiser(FileSystemEventHandler):
+class Organiser(FileSystemEventHandler): # Used inheritance to customise the handler
     
     # Monitor the source folder
     def on_modified(self, event):
@@ -108,7 +110,7 @@ if __name__ == "__main__":
                         format='%(asctime)s - %(message)s',
                         datefmt='%Y-%m-%d %H:%M:%S')
     path = source_dir
-    event_handler = Organiser() # Changed the event handler
+    event_handler = Organiser() # Changed the event handler name to my custom one
     observer = Observer()
     observer.schedule(event_handler, path, recursive=True)
     observer.start()
