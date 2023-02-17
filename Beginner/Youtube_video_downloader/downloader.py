@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from pytube import YouTube  # Used to get data from YouTube
 from sys import argv        # Used to take input commands when running python file
 
@@ -10,7 +12,7 @@ print("Title: ", yt.title)
 print("Views: ", yt.views)
 
 # Set video resolution
-download = yt.streams.get_highest_resolution()
+yd = yt.streams.get_highest_resolution()
 
 # Download YouTube video
-download.download('./Users/Qaasim/Downloads/Videos/Youtube_downloads')
+yd.download('/HERE') # Add YouTube folder path
