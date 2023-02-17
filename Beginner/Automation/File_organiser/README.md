@@ -9,7 +9,9 @@ Everyone with a computer has a downloads folder and as we know the downloads fol
 # Requirements
 **Watchdog**: This tool is used for monitoring file system events
 (Learn more about watchdog from the [user guide](https://pythonhosted.org/watchdog/#user-s-guide))
+
 **Installation**: pip install watchdog
-they also provide a [sample code](https://pythonhosted.org/watchdog/quickstart.html#a-simple-example) to get us started 
+
+They also provide a [sample code](https://pythonhosted.org/watchdog/quickstart.html#a-simple-example) to get us started 
 
 # Run Program
