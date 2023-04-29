@@ -2,6 +2,7 @@
 A basic web scrapping programme. I used it to scrap a job postings for python programmers
 
 # Learning objectives
+- if..else statements 
 - Error Handling
 - Arrow functions
 - User input
