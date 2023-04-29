@@ -12,3 +12,6 @@ These projects are not languages specific. Choose a alnguage you're comfortable 
 
 # Advice
 Build 4 - 8 projects and then move towards more intermidiate projects
+
+# Finaished projects
+- Courier calculator
