@@ -14,4 +14,6 @@ These projects are not languages specific. Choose a alnguage you're comfortable 
 Build 4 - 8 projects and then move towards more intermidiate projects
 
 # Finaished projects
-- Courier calculator
+- [Web Scraping](https://github.com/iamqaasim/Programing_Projects/tree/main/Beginner/Web_scraping)
+- [Youtube_video_downloader](https://github.com/iamqaasim/Programing_Projects/tree/main/Beginner/Youtube_video_downloader)
+- [Courier calculator](https://github.com/iamqaasim/Programing_Projects/tree/main/Beginner/Courier_caculator)
