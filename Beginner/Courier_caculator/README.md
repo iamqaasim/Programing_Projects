@@ -1,5 +1,5 @@
 # About
-A basic web scrapping programme. I used it to scrap a job postings for python programmers
+A calculation programme. I used it to calculate the total cost of a package based on various varibales
 
 # Learning objectives
 - if..else statements 
