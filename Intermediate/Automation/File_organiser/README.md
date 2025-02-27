@@ -27,7 +27,7 @@ This project is designed to automate the organization of files on your system. I
     ```
 4. Run the script to organize files:
     ```bash
-    python file_organiser.py
+    python Folder_organiser.py
     ```
 
 ## Usage
