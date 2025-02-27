@@ -1,20 +1,3 @@
-# About
-Everyone with a computer has a downloads folder and as we know the downloads folder can get quite cluttered after a while. This programe automates the process of organising your downloads folder soo you dont have to go through the hasle of doing it yourself.
-
-# Learning objectives
-- Automation
-- File Management
-- Monitoring
-
-# Requirements
-1. **Watchdog**: This tool is used for monitoring file system events
- * **Installation**: pip install watchdog
- * They also provide a [sample code](https://pythonhosted.org/watchdog/quickstart.html#a-simple-example) to get us started
- * Learn more about watchdog from the [user guide](https://pythonhosted.org/watchdog/#user-s-guide)
-
-# Run Program
-**python File_organiser.py**
-
 # File Organiser
 
 This project is designed to automate the organization of files on your system. It provides a simple solution to categorize and move files into different directories based on their extensions, making file management much easier.
@@ -50,3 +33,9 @@ This project is designed to automate the organization of files on your system. I
 ## Usage
 
 Once the program is running, it will start sorting the files in the target directory based on predefined categories (images, documents, etc.). You can customize the script by editing the configuration options in the file.
+
+# Monitoring
+1. **Watchdog**: This tool is used for monitoring file system events
+ * **Installation**: pip install watchdog
+ * They also provide a [sample code](https://pythonhosted.org/watchdog/quickstart.html#a-simple-example) to get us started
+ * Learn more about watchdog from the [user guide](https://pythonhosted.org/watchdog/#user-s-guide)
